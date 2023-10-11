@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+  
+div#time {
+    color: aqua;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 40px;
+      font-family: 'Ubuntu', sans-serif;
+      margin-top: 300px;
+      font-style: oblique;
+  }
+  .container{
+    background-color: #fff;
+  width: 1350px;
+  margin-left: 90px;
+  letter-spacing: .1rem;
+  font-weight: 600;
+  transition: .5s ease ;
+ 
+border-radius: 2rem;
+box-shadow: 0 0 1rem aqua;
+
+  }
+  .container hover{
+    box-shadow: none;
+    
+  }
+.head{
+    color: aqua;
+    color: aqua;
+  display: flex;
+  justify-content: center;
+  font-size: 56px;
+  margin-top: 56px;
+  height: 0px;
+}
